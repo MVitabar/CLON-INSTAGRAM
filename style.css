@@ -47,7 +47,7 @@
 
 .android {
     width: 170px;
-    height: 60px;
+   
 }
 
 input {
@@ -107,6 +107,7 @@ a {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+        max-width: 400px;
     }
 
     body {
