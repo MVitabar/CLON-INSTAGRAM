@@ -57,6 +57,7 @@ input {
     border-radius: 8px;
     margin: 10px;
     outline: none;
+    padding: 5px;
 }
 
 .log-in {
